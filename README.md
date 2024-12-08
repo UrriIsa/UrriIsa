@@ -5,4 +5,4 @@ The topics i interested are the biotechnology, nanoscience and computational neu
 
 This account contains many of my projects, most carried out throughout my degree, but there are also my own projects and challenges, so enjoy it.
 
-![Descripción alternativa](https://mx.pinterest.com/pin/5348093302884884/)
+![gid](https://i.pinimg.com/originals/d8/82/8d/d8828d2d6254273a617e6337d292303d.gif)
