@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 🌱
 
 I'm Isaac Urrutia (Also known simply as Urri), a computer science student, but it's not my only passion.
 The topics i interested are the biotechnology, nanoscience and computational neuroscience. And others related with other knowledge areas, like the art.
