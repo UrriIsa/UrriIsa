@@ -9,5 +9,5 @@ This account contains many of my projects, most carried out throughout my degree
 ## languages, frameworks & tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,java,r,git,github,cpp,cs,css,emacs,linux,php,powershell&size=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,java,r,git,github,cpp,cs,css,emacs,linux,php,powershell&size=10)](https://skillicons.dev)
 
