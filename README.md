@@ -6,9 +6,9 @@ The topics i interested are the biotechnology, nanoscience and computational neu
 
 This account contains many of my projects, most carried out throughout my degree, but there are also my own projects and challenges, so enjoy it.
 
-## Más sobre mí (More About Me):
+## More About Me:
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/isaac-urrutia-65971335b/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
