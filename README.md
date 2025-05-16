@@ -7,4 +7,15 @@ The topics i interested are the biotechnology, nanoscience and computational neu
 This account contains many of my projects, most carried out throughout my degree, but there are also my own projects and challenges, so enjoy it.
 
 
+## More About Me: 
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/isaac-urrutia-65971335b/"> 
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a> 
+  <a href="https://codeforces.com/profile/Urri"> 
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"> 
+  </a> 
+</p>
+
 
