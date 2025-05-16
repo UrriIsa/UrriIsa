@@ -6,7 +6,7 @@ Me interesan la biotecnología, la nanociencia y la neurociencia computacional, 
 
 Esta cuenta contiene muchos de mis proyectos, la mayoría realizados a lo largo de la carrera, pero también incluye mis propios proyectos y retos, así que disfrútenla.
 
----
+--
 I'm Isaac Urrutia (also known simply as Urri), a computer science student, but it's not my only passion.
 The topics i interested are the biotechnology, nanoscience and computational neuroscience. And others related with other knowledge areas, like the art.
 
