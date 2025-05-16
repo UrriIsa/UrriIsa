@@ -6,7 +6,8 @@ Me interesan la biotecnología, la nanociencia y la neurociencia computacional, 
 
 Esta cuenta contiene muchos de mis proyectos, la mayoría realizados a lo largo de la carrera, pero también incluye mis propios proyectos y retos, así que disfrútenla.
 
---
+***Traduction :***
+
 I'm Isaac Urrutia (also known simply as Urri), a computer science student, but it's not my only passion.
 The topics i interested are the biotechnology, nanoscience and computational neuroscience. And others related with other knowledge areas, like the art.
 
@@ -14,7 +15,7 @@ This account contains many of my projects, most carried out throughout my degree
 
 ## Más sobre mi (More Abou me):
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-urrutia) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/isaac-urrutia](https://www.linkedin.com/in/isaac-urrutia-65971335b/) 
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Urri)
 
