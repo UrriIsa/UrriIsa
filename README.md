@@ -14,10 +14,11 @@ This account contains many of my projects, most carried out throughout my degree
 
 ## Más sobre mi (More Abou me):
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/urrutiaisaac) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/urrutiaisaac) 
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Urri)
 
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrriIsa&show_icons=true&theme=radical&bg_color=FFFFFF&title_color=75845D&text_color=000000&border_color=748F6E&icon_color=748F6E)
 
