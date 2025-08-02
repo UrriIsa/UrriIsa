@@ -2,7 +2,7 @@
 ## Hola 🧊
 
 Soy Isaac Urrutia (también conocido como Urri), estudiante de ciencias de la computación, pero no es mi única pasión.
-Los temas que me interesan son la biotecnología, nanociencia, neurociencia, la biología teórica y la computación teórica. Además de, otros relacionados con otras áreas de conocimiento, como el arte.
+Los temas que me interesan son la biotecnología, nanociencia, neurociencia, la biología teórica y la computación teórica. Además de otros relacionados con otras áreas de conocimiento, como el arte.
 
 Esta cuenta contiene muchos de mis proyectos, la mayoría realizados a lo largo de la carrera, pero también hay proyectos y retos propios, así que disfrútala.
 
