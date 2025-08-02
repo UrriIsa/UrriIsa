@@ -13,7 +13,7 @@ For a more polished, professional portfolio, check out my professional account: 
 ## More About Me: 
 
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/isaac-urrutia-65971335b/"> 
+  <a href="https://www.linkedin.com/in/isaac-urrutia-alfaro/"> 
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a> 
   <a href="https://codeforces.com/profile/Urri"> 
