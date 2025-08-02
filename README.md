@@ -1,16 +1,16 @@
 
-## Hi 🧊
+## Hola 🧊
 
-I'm Isaac Urrutia (also known simply as Urri), a computer science student, but it's not my only passion.
-The topics i interested are the biotechnology, nanoscience, neuroscience, theoretical biology and theoretical computer science. And others related with other knowledge areas, like the art.
+Soy Isaac Urrutia (también conocido como Urri), estudiante de ciencias de la computación, pero no es mi única pasión.
+Los temas que me interesan son la biotecnología, nanociencia, neurociencia, la biología teórica y la computación teórica. Además de, otros relacionados con otras áreas de conocimiento, como el arte.
 
-This account contains many of my projects, most carried out throughout my degree, but there are also my own projects and challenges, so enjoy it. 
+Esta cuenta contiene muchos de mis proyectos, la mayoría realizados a lo largo de la carrera, pero también hay proyectos y retos propios, así que disfrútala.
 
-**Note:** This is my general/testing GitHub account for academic projects, experiments and side-challenges.  
-For a more polished, professional portfolio, check out my professional account: [UrrIsa](https://github.com/UrrIsa)  
+**Nota:** Como dije arriba, esta es mi cuenta de GitHub general/de pruebas para proyectos académicos, experimentos y retos paralelos.  
+Para un portafolio de trabajos más pulido y/o de publicaciones, puedes ver mi otra cuenta echa : [UrrIsa](https://github.com/UrrIsa)
 
 
-## More About Me: 
+## Más sobre mí: 
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/isaac-urrutia-alfaro/"> 
