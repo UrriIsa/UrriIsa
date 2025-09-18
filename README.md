@@ -1,7 +1,7 @@
 
 ## Hola 🧊
 
-Soy Isaac Urrutia (también conocido como Urri), estudiante de Ciencias de la Computación y formo parte del CPCFI (Club de Programación Competitiva de la Factultad de Ingeniería) pero no es mi única pasión.
+Soy Isaac Urrutia (también conocido como Urri), estudiante de Ciencias de la Computación y formo parte del CPCFI (Club de Programación Competitiva de la Facultad de Ingeniería, UNAM) pero no es mi única pasión.
 
 También me apasionan temas que abarcan la biotecnología, neurociencia, biología teórica y computación teórica. Además de otros relacionados con otras áreas de conocimiento, como el arte.
 
