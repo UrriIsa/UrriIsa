@@ -1,31 +1,12 @@
-
 ## Hola 🧊
+Soy Isaac Urrutia (también conocido como Urri), estudiante de Ciencias de la Computación.
+También me apasionan temas que abarcan la biotecnología, neurociencia, biología teórica y computación teórica. Además de otros relacionados con otras áreas de conocimiento, como el arte.
 
-Soy Isaac Urrutia (Urri), estudiante de Ciencias de la Computación. Mis grandes pasiones son el arte, la biología y la computación.
+Esta cuenta contiene muchos de mis proyectos, la mayoría realizados a lo largo de la carrera, pero también hay proyectos y retos propios, así que disfrútala.
 
----
-## Qué hago : 
-Estoy interesado en :
+**Nota:** Como dije arriba, esta es mi cuenta de GitHub general/de pruebas para proyectos académicos, experimentos y retos paralelos.
+Para un portafolio de trabajos más pulido y/o de publicaciones, puedes ver mi otra cuenta echa : UrrIsa
 
-Biotecnología
-
-Neurociencia
-
-Neurocomputo
-
-Biología teórica
-
-Computación teórica
-
-Mis aspiraciones quizás sean muy academica, pero me gustaría poder encontrar la intersección de todo lo que me gusta.
-
----
-## Qué esperar: 
-
-Esta es mi portafolio de cosas que he hecho y de las cuales quiero llevar un registro. La mayoría realizados a lo largo de mi carrera, pero también hay retos, pruebas y experimentos, así que disfrútala. Para un portafolio de trabajos más pulido y/o de publicaciones, puedes ver mi otra cuenta echa : [UrrIsa](https://github.com/UrrIsa)
-
-
----
 
 ## Más sobre mí: 
 
