@@ -19,9 +19,3 @@ Para un portafolio de trabajos más pulido y/o de publicaciones, puedes ver mi o
   </a> 
 </p>
 
-
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-
-*"Búscame dentro de ti"*
-
-
