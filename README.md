@@ -8,9 +8,13 @@ Soy Isaac Urrutia (Urri), estudiante de Ciencias de la Computación. Mis grandes
 Estoy interesado en :
 
 Biotecnología
+
 Neurociencia
+
 Neurocomputo
+
 Biología teórica
+
 Computación teórica
 
 Mis aspiraciones quizás sean muy academica, pero me gustaría poder encontrar la intersección de todo lo que me gusta.
